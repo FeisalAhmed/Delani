@@ -47,8 +47,6 @@
     color: red;
 }
 
-}
-
 #sec-5 {
     background-image: url("/images/c_image.jpg");
     padding-top:71px;
@@ -90,5 +88,6 @@ form {
     background: transparent;
 }
 .contact{
-    height: 70vh;
+    height: 71vh;
+    margin-top:50px;
 }
