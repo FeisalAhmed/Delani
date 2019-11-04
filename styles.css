@@ -26,6 +26,7 @@
     text-align: center;
     background-image: url("/images/s_image.jpg");
     color: white;
+    height:40vh;
     
 }
 .container {
@@ -84,4 +85,10 @@ form {
 }
 .contact h2{
     text-align: center;
+}
+#free{
+    background: transparent;
+}
+.contact{
+    height: 70vh;
 }
