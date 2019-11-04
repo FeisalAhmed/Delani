@@ -82,6 +82,6 @@ form {
 .contact{
     background-image: url("/images/c_image.jpg");
 }
-.bg-success{
-    down:35%;
+.contact h2{
+    text-align: center;
 }
