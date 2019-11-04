@@ -1,0 +1,78 @@
+#home {
+    background-image: url("/images/h_img.jpg");
+    background-attachment: fixed;
+    height: 100vh;
+    text-align: center;
+    padding-top: 35vh;
+}
+.logo p{
+    color:white;
+}
+.p1 {
+    font-size: 40px;
+}
+.p2 {
+    font-size: 20px;
+}
+.peg {
+    padding-top: 20vh;
+}
+.mwanzo {
+    text-align: center;
+    padding-top: 1vh;
+    padding-bottom: 5vh;
+}
+.pili {
+    text-align: center;
+    background-image: url("/images/s_image.jpg");
+    color: white;
+    
+}
+.container {
+    text-align: center;
+}
+.school {
+    padding: 10px;
+    width: 300px;
+    text-align: center;
+    position: absolute;
+    top: 35%;
+    left: 19px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: aliceblue;
+}
+.school h4 {
+    color: blue;
+}
+
+}
+
+#sec-5 {
+    background-image: url("/images/c_image.jpg");
+    padding-top:71px;
+}
+#maliza {
+    padding-top: 100px;
+}
+#sign {
+    padding-top: 80px;
+}
+#nameDetail {
+    background: transparent;
+}
+.para1{
+    display:none;
+}
+.para2{
+    display:none;
+}
+.para3{
+    display:none;
+}
+.school{
+    display:none;
+}
+#contactUs{
+    text-align: center;
+}
