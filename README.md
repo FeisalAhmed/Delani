@@ -22,7 +22,7 @@
 
    ## BDD
 
-    -This application is used as aportfolio to showcase previous projects.
+    -This application is used as a portfolio to showcase previous projects that one has done well.
     -It is also used to advertise a bussiness like this Delani Studio.
 
 
