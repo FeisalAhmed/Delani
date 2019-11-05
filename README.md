@@ -13,7 +13,9 @@
       -GQUERY
       -JAVASCRIPT
 
-   ## THE PROJECT
+   ##known bugs
+
+   ## THE PROJECT LINK
      you can find my project on:https://feisalahmed.github.io/Delani/
 
    ## BDD
