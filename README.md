@@ -6,7 +6,7 @@
 
    Feisal Ahmed
 
-  ## Technology used
+  ## TECHNOLOGY USED
       
       -HTML
       -CSS
