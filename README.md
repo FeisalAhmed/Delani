@@ -25,6 +25,7 @@
    ## SUPORT AND CONTACT DETAILS
 
       FEIZULF@GMAIL.COM
+      -for any support please dont hesitate to clone and clarify.
 
 ## The MIT License (MIT)
 
