@@ -16,6 +16,11 @@
    ## THE PROJECT
      you can find my project on:https://feisalahmed.github.io/Delani/
 
+   ## BDD
+
+    -This application is used as aportfolio to showcase previous projects.
+    -It is also used to advertise a bussiness like this Delani studio.
+
 
    ## SUPORT AND CONTACT DETAILS
 
