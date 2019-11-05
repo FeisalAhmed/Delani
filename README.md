@@ -15,6 +15,8 @@
 
    ##known bugs
 
+    so far there is no any bug but if found any please share.
+
    ## THE PROJECT LINK
      you can find my project on:https://feisalahmed.github.io/Delani/
 
