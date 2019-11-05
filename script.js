@@ -112,21 +112,20 @@ $(document).ready(function () {
     });
 });
 
-var submit= function() {
-    var myName = document.getElementById("name");
-     var myEmail = document.getElementById("email");
-     var comment = document.getElementById("message");
-     if (myName == "" || myEmail == "" || comment== "") {
-       alert("Please fill in the required data");
-     } 
-     else {
-       alert(" we have received your message.Thank you for reaching out to us."
-       );
-     }
-    
-      event.preventDefault();
-     
- }; 
+var send = function (event) {
+    var myName = document.getElementById("inputName").value;
+    var myEmail = document.getElementById("inputEmail").value;
+    var comment = document.getElementById("inputMessage").value;
+    if (myName == "" || myEmail == "" || comment == "") {
+        alert("Please fill in the required data");
+    }
+    else {
+        alert(" we have received your message.Thank you for reaching out to us."
+        );
+    }
+
+
+};
 
 
 

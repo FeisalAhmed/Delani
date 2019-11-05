@@ -1,5 +1,5 @@
 #home {
-    background-image: url("/images/h_img.jpg");
+    background-image: url("images/h_img.jpg");
     background-attachment: fixed;
     height: 100vh;
     text-align: center;
@@ -24,7 +24,7 @@
 }
 .pili {
     text-align: center;
-    background-image: url("/images/s_image.jpg");
+    background-image: url("images/s_image.jpg");
     color: white;
     height:40vh;
     
@@ -33,6 +33,7 @@
     text-align: center;
 }
 .school {
+    display: none;
     padding: 10px;
     width: 300px;
     text-align: center;
@@ -48,7 +49,7 @@
 }
 
 #sec-5 {
-    background-image: url("/images/c_image.jpg");
+    background-image: url("images/c_image.jpg");
     padding-top:71px;
 }
 #maliza {
@@ -77,17 +78,43 @@
 }
 form {
     width: 100%;
+    margin: 30px;
 }
-.contact{
-    background-image: url("/images/c_image.jpg");
+#contact{
+    background: url("images/c_image.jpg") no-repeat center center/cover;
+    height:70vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
 }
-.contact h2{
+#contact h2{
     text-align: center;
 }
 #free{
     background: transparent;
 }
-.contact{
-    height: 71vh;
-    margin-top:50px;
+
+form {
+    margin: 0 auto;
+    width: 70%;
+}
+
+form .row{
+    padding-top: 50px;
+}
+
+#inputName, #inputEmail, textarea {
+    width: 100%;
+    background: transparent;
+    display: block;
+}
+
+#inputName::placeholder, #inputEmail::placeholder, textarea::placeholder {
+    color: #fff;
+}
+#space{
+    padding-top: 80px;
 }
